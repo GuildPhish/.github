@@ -6,4 +6,4 @@ GuildPhish is an advanced set of Discord Advertising Tools to help you grow your
 We are currently in the process of gathering more Statistics so we have a better understanding of how well the tool works, currently the tool bypasses captchas, rate-limits and more and is extremally efficient, It can grow discord servers really fast too and comes with very little downsides. 
 
 ## Learn More:
-The tools and methods are currently private however we are actively looking to sell the tools to some people that we know would not share the methods, If you are interested feel free to Contact me on Discord **Katsu#8890** or our other developer **$age#0001**.
+The tools and methods are currently private however we are actively looking to sell the tools to some people that we know would not share the methods, If you are interested feel free to Contact me on Discord **Katsu#8890**
